@@ -39,27 +39,27 @@ The constitution of the repository as per course modules, quizzes and programmin
     * week 3
         * [Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/2.%20Improving-Deep-Neural-Networks/week3/Quiz%20-%20Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.pdf)
         * [Programming Assignment - Tensorflow](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/2.%20Improving-Deep-Neural-Networks/week3/TensorFlow_Tutorial_v3b.ipynb)
-3. [Structuring Machine Learning Projects](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/tree/master/3.%20Structuring%20Machine%20Learning%20Projects)
+3. [Structuring Machine Learning Projects](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/tree/master/3.%20Structuring-Machine-Learning-Projects)
     * week 1
-        * [Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/3.%20Structuring%20Machine%20Learning%20Projects/week1/Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia.pdf)
+        * [Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/3.%20Structuring-Machine-Learning-Projects/week1/Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia.pdf)
     * week 2
-        * [Quiz - Autonomous driving (case study)](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/3.%20Structuring%20Machine%20Learning%20Projects/week2/Quiz%20-%20Autonomous%20driving.pdf)
-4. [Convolutional Neural Networks](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/tree/master/4.%20Convolutional%20Neural%20Networks)
+        * [Quiz - Autonomous driving (case study)](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/3.%20Structuring-Machine-Learning-Projects/week2/Quiz%20-%20Autonomous%20driving.pdf)
+4. [Convolutional Neural Networks](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/tree/master/4.%20Convolutional-Neural-Networks)
     * week 1
-        * [Quiz - The basics of ConvNets](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week1/Quiz%20-%20The%20basics%20of%20ConvNets.pdf)
-        * [Programming Assignment - Convolutional Model: step by step](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week1/1.Convolution_model_Step_by_Step_v2a.ipynb)
-        * [Programming Assignment - Convolutional Model: application](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week1/2.Convolution_model_Application_v1a.ipynb)
+        * [Quiz - The basics of ConvNets](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week1/Quiz%20-%20The%20basics%20of%20ConvNets.pdf)
+        * [Programming Assignment - Convolutional Model: step by step](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week1/1.Convolution_model_Step_by_Step_v2a.ipynb)
+        * [Programming Assignment - Convolutional Model: application](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week1/2.Convolution_model_Application_v1a.ipynb)
     * week 2
-        * [Quiz - Deep convolutional models](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week2/Quiz%20-%20Deep%20convolutional%20models.pdf)
-        * [Programming Assignment - Keras Tutorial](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week2/1.Keras_Tutorial_v2a.ipynb)
-        * [Programming Assignment - Residual Networks](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week2/2.Residual_Networks_v2a.ipynb)
+        * [Quiz - Deep convolutional models](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week2/Quiz%20-%20Deep%20convolutional%20models.pdf)
+        * [Programming Assignment - Keras Tutorial](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week2/1.Keras_Tutorial_v2a.ipynb)
+        * [Programming Assignment - Residual Networks](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week2/2.Residual_Networks_v2a.ipynb)
     * week 3
-        * [Quiz - Detection algorithms](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week3/Quiz%20-%20Detection%20algorithms.pdf)
-        * [Programming Assignment - Car detection with YOLO](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week3/Autonomous_driving_application_Car_detection_v3a.ipynb)
+        * [Quiz - Detection algorithms](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week3/Quiz%20-%20Detection%20algorithms.pdf)
+        * [Programming Assignment - Car detection with YOLO](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week3/Autonomous_driving_application_Car_detection_v3a.ipynb)
     * week 4
-        * [Quiz - Special applications: Face recognition & Neural style transfer](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week4/Quiz%20-%20Special%20applications-%20Face%20recognition%20%26%20Neural%20style%20transfer.pdf)
-        * [Programming Assignment - Art generation with Neural Style Transfer](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week4/1.Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
-        * [Programming Assignment - Face Recognition](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/week4/2.Face_Recognition_v3a.ipynb)
+        * [Quiz - Special applications: Face recognition & Neural style transfer](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week4/Quiz%20-%20Special%20applications-%20Face%20recognition%20%26%20Neural%20style%20transfer.pdf)
+        * [Programming Assignment - Art generation with Neural Style Transfer](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week4/1.Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+        * [Programming Assignment - Face Recognition](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week4/2.Face_Recognition_v3a.ipynb)
 5. [Sequence Models](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/tree/master/5.%20Recurrent-Neural-Networks)
     * week 1
         * [Quiz - Recurrent Neural Networks](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week1/Quiz%20-%20Recurrent%20Neural%20Networks.pdf)
