@@ -4,7 +4,7 @@
 Instructor: [Andrew Ng](http://www.andrewng.org/)  
 Community: [deeplearning.ai](https://www.deeplearning.ai/)
 
-### Overview
+## Overview
 
 ![](images/course_modules.png)
 
@@ -75,12 +75,12 @@ The constitution of the repository as per course modules, quizzes and programmin
         * [Programming Assignment - Neural Machine Translation with Attention](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week3/1.Neural_machine_translation_with_attention_v4a.ipynb)
         * [Programming Assignment - Trigger word detection](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week3/2.Trigger_word_detection_v1a.ipynb)
 
-### Lecture Notes References
+## Lecture Notes References
 Here are some references of lecture notes and reviews drawn by some communities, authors and editors - 
 * https://www.deeplearning.ai/ai-notes/
 * https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 
-### Acknowledgement
+## Acknowledgement
 
 Deep Learning Specialization offered by Andrew Ng is an excellent blend of content for deep learning enthusiasts. I thoroughly enjoyed the course and earned the [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5K48N32J3UU7).
   
