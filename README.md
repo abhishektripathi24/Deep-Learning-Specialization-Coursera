@@ -60,20 +60,20 @@ The constitution of the repository as per course modules, quizzes and programmin
         * [Quiz - Special applications: Face recognition & Neural style transfer](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week4/Quiz%20-%20Special%20applications-%20Face%20recognition%20%26%20Neural%20style%20transfer.pdf)
         * [Programming Assignment - Art generation with Neural Style Transfer](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week4/1.Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
         * [Programming Assignment - Face Recognition](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/4.%20Convolutional-Neural-Networks/week4/2.Face_Recognition_v3a.ipynb)
-5. [Sequence Models](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/tree/master/5.%20Recurrent-Neural-Networks)
+5. [Sequence Models](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/tree/master/5.%20Sequence-Models)
     * week 1
-        * [Quiz - Recurrent Neural Networks](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week1/Quiz%20-%20Recurrent%20Neural%20Networks.pdf)
-        * [Programming Assignment - Building a recurrent neural network - step by step](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week1/1.Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb)
-        * [Programming Assignment - Dinosaur Island - Character-Level Language Modeling](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week1/2.Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
-        * [Programming Assignment - Jazz improvisation with LSTM](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week1/3.Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+        * [Quiz - Recurrent Neural Networks](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week1/Quiz%20-%20Recurrent%20Neural%20Networks.pdf)
+        * [Programming Assignment - Building a recurrent neural network - step by step](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week1/1.Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb)
+        * [Programming Assignment - Dinosaur Island - Character-Level Language Modeling](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week1/2.Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
+        * [Programming Assignment - Jazz improvisation with LSTM](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week1/3.Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
     * week 2
-        * [Quiz - Natural Language Processing & Word Embeddings](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week2/Quiz%20-%20Natural%20Language%20Processing%20%26%20Word%20Embeddings.pdf)
-        * [Programming Assignment - Operations on word vectors - Debiasing](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week2/1.Operations_on_word_vectors_v2a.ipynb)
-        * [Programming Assignment - Emojify](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week2/2.Emojify_v2a.ipynb)
+        * [Quiz - Natural Language Processing & Word Embeddings](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week2/Quiz%20-%20Natural%20Language%20Processing%20%26%20Word%20Embeddings.pdf)
+        * [Programming Assignment - Operations on word vectors - Debiasing](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week2/1.Operations_on_word_vectors_v2a.ipynb)
+        * [Programming Assignment - Emojify](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week2/2.Emojify_v2a.ipynb)
     * week 3
-        * [Quiz - Sequence models & Attention mechanism](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week3/Quiz%20-%20Sequence%20models%20%26%20Attention%20mechanism.pdf)
-        * [Programming Assignment - Neural Machine Translation with Attention](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week3/1.Neural_machine_translation_with_attention_v4a.ipynb)
-        * [Programming Assignment - Trigger word detection](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Recurrent-Neural-Networks/week3/2.Trigger_word_detection_v1a.ipynb)
+        * [Quiz - Sequence models & Attention mechanism](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week3/Quiz%20-%20Sequence%20models%20%26%20Attention%20mechanism.pdf)
+        * [Programming Assignment - Neural Machine Translation with Attention](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week3/1.Neural_machine_translation_with_attention_v4a.ipynb)
+        * [Programming Assignment - Trigger word detection](https://github.com/abhishektripathi24/Deep-Learning-Specialization-Coursera/blob/master/5.%20Sequence-Models/week3/2.Trigger_word_detection_v1a.ipynb)
 
 ## Lecture Notes References
 Here are some references of lecture notes and reviews drawn by some communities, authors and editors - 
