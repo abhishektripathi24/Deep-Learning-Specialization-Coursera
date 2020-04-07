@@ -79,6 +79,7 @@ The constitution of the repository as per course modules, quizzes and programmin
 Here are some references of lecture notes and reviews drawn by some communities, authors and editors - 
 * https://www.deeplearning.ai/ai-notes/
 * https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
+* https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c
 
 ## Acknowledgement
 
